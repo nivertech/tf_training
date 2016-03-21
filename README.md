@@ -1,5 +1,6 @@
 Atlas Integration
 =================
+
 Up until this point, we have been running Terraform locally. This is great for
 a single developer, but tends to break down in large teams. Instead, it is
 recommended that you use Atlas for managing infrastructure. In addition to
